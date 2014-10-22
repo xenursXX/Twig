@@ -1,0 +1,16 @@
+{
+    "name": "guillaume/twig",
+    "description": "My first Twig Engine Template!",
+    "require": {
+        "twig/twig": "~1.0",
+        "cocur/slugify": "@stable"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "guillaume NOUHAUD",
+            "email": "gui.nouhaud@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
